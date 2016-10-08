@@ -25,7 +25,7 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
     $	cd objdir
     $	../configure CXX=g++ --disable-async-updates
 
-运行后截图如下：
+运行后截图如下：         
 ![Alt text](http://p1.bqimg.com/567571/d50ac858661108ee.png)
 
 ##### 4.编译并获得当前工作路径
@@ -34,9 +34,9 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
     $   cd ..        
     $   ls
     $   pwd
-编译完后文件目录如下：  
+编译完后文件目录如下：           
 ![Alt text](http://p1.bqimg.com/567571/2c55853e53f4419e.png)
-由 pwd 命令得到的工作路径如下：
+由 pwd 命令得到的工作路径如下：          
 ![Alt text](http://p1.bqimg.com/567571/62aed27a4732cfbd.png)
 
 ##### 5.编译DOL
@@ -51,7 +51,7 @@ $	ant -f build_zip.xml all
 成功显示build successful后，再接着可以试试运行第一个例子：     
 进入build/bin/mian路径下：$	cd build/bin/main        
 然后运行第一个例子： $	ant -f runexample.xml -Dnumber=1
-运行完第一个例子后得到的结果如下：
+运行完第一个例子后得到的结果如下：             
 ![Alt text](http://p1.bqimg.com/567571/548ec22e3c66d933.png)
 
 #### 实验感想与心得：
