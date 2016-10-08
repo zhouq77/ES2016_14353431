@@ -35,7 +35,7 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
     $   ls
     $   pwd
 编译完后文件目录如下：           
-![Alt text](http://p1.bqimg.com/567571/2c55853e53f4419e.png)
+![Alt text](http://p1.bqimg.com/567571/2c55853e53f4419e.png)            
 由 pwd 命令得到的工作路径如下：          
 ![Alt text](http://p1.bqimg.com/567571/62aed27a4732cfbd.png)
 
